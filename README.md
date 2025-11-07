@@ -1,4 +1,24 @@
-# Welcome to your Expo app 👋
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-11-06 190208" src="https://github.com/user-attachments/assets/a6638c4d-1f6e-409d-81ad-0f4cfdccc348" /># Welcome to your Expo app 👋
+
+<img width="350" height="641" alt="Ekran görüntüsü 2025-11-07 215242" src="https://github.com/user-attachments/assets/89b65ca7-a55d-4cd7-8ba2-2c0053d3fdfe" />
+<img width="1918" height="1014" alt="Ekran görüntüsü 2025-11-07 214824" src="https://github.com/user-attachments/assets/18dc0823-ffeb-4171-a646-1e2e92f20253" />
+
+<img width="1025" height="915" alt="Ekran görüntüsü 2025-11-07 201518" src="https://github.com/user-attachments/assets/aa779c88-ded8-43c2-958a-adeddb228daa" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-11-06 190208" src="https://github.com/user-attachments/assets/e3f4c3aa-3053-40ee-90ff-787c6d131c5f" />
+
+<img width="1781" height="597" alt="Ekran görüntüsü 2025-11-06 175209" src="https://github.com/user-attachments/assets/f2c44469-5e13-4390-bb83-fbe069e7ee0d" />
+
+<img width="1837" height="653" alt="Ekran görüntüsü 2025-11-06 173707" src="https://github.com/user-attachments/assets/1795fa2f-8ff1-4d39-9746-5c4de86b1790" />
+
+
+![2025-11-06 at 19 52 26](https://github.com/user-attachments/assets/88dfbe54-c653-487f-88af-231763131ce4)
+
+![2025-11-06 at 19 52 26 (3)](https://github.com/user-attachments/assets/0fb53375-2652-41bc-8a91-aa583be64259)
+
+![2025-11-06 at 19 52 26 (2)](https://github.com/user-attachments/assets/877d35dd-44e6-441d-b9f7-b0a48f8395da)
+
+![2025-11-06 at 19 52 26 (1)](https://github.com/user-attachments/assets/195e4a94-8a0c-477e-9425-f87a74f2f9c4)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
